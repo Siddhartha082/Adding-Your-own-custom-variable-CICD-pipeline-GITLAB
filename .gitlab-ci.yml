@@ -1,0 +1,7 @@
+variables:
+  Name: "Siddhartha"
+  Message: "A newbee from a Data Scientist Domain"
+
+demo:
+    script:
+        - echo "$Name $Message"
